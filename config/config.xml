@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<!-- custom settings -->
+	<recordsPath>/Users/befu/work/other</recordsPath>
+	<logPath>/Users/befu/work/other/宇之光飞针测试日志</logPath>
+	
+	<!-- 采集频率，单位分钟 -->
+	<timer>1</timer>
+	
+	<!-- system settings -->
+	<mongoURL>`bcjbio7&quot;&quot;`b~txc7`bcjb&lt;9&lt;9?&lt;M&lt;&lt;?#&lt;?9#&lt;&lt;=#4&lt;7&lt;==?&gt;&quot;2lxye^bxnh0</mongoURL>
+	<accessKey>iofudjke9485rufdjc3</accessKey>
+</config>
